@@ -1,3 +1,6 @@
+# Merge Sort: Python
+# O(n log n)
+
 # create a test array
 test_array = [1,5,2,9,3,6,4,7,8,10]
 
